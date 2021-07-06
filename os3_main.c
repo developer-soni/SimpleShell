@@ -1,7 +1,7 @@
 /**************************************************************
 * Project: Assignment 3 – Simple Shell
 *
-* File: soni_dev_HW3_main.c
+* File: os3_main.c
 *
 * Description: In this program, I create my own shell that that runs
 *               on top of the regular command-line interpreter for Linux.
